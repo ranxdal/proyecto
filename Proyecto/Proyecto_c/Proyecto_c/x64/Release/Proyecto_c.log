@@ -1,0 +1,32 @@
+﻿  Proyecto_c.cpp
+C:\Users\usuario\OneDrive\Escritorio\Proyecto_Final\Proyecto\Proyecto_c\Proyecto_c\Cliente.h(87,14): warning C4101: 'resultado': variable local sin referencia
+C:\Users\usuario\OneDrive\Escritorio\Proyecto_Final\Proyecto\Proyecto_c\Proyecto_c\Cliente.h(86,13): warning C4101: 'fila': variable local sin referencia
+C:\Users\usuario\OneDrive\Escritorio\Proyecto_Final\Proyecto\Proyecto_c\Proyecto_c\Compras.h(112,14): warning C4101: 'resultado': variable local sin referencia
+C:\Users\usuario\OneDrive\Escritorio\Proyecto_Final\Proyecto\Proyecto_c\Proyecto_c\Compras.h(111,13): warning C4101: 'fila': variable local sin referencia
+C:\Users\usuario\OneDrive\Escritorio\Proyecto_Final\Proyecto\Proyecto_c\Proyecto_c\Compras.h(175,22): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\usuario\OneDrive\Escritorio\Proyecto_Final\Proyecto\Proyecto_c\Proyecto_c\Empleados.h(89,14): warning C4101: 'resultado': variable local sin referencia
+C:\Users\usuario\OneDrive\Escritorio\Proyecto_Final\Proyecto\Proyecto_c\Proyecto_c\Empleados.h(88,13): warning C4101: 'fila': variable local sin referencia
+C:\Users\usuario\OneDrive\Escritorio\Proyecto_Final\Proyecto\Proyecto_c\Proyecto_c\Marcas.h(80,14): warning C4101: 'resultado': variable local sin referencia
+C:\Users\usuario\OneDrive\Escritorio\Proyecto_Final\Proyecto\Proyecto_c\Proyecto_c\Marcas.h(79,13): warning C4101: 'fila': variable local sin referencia
+C:\Users\usuario\OneDrive\Escritorio\Proyecto_Final\Proyecto\Proyecto_c\Proyecto_c\Puestos.h(80,14): warning C4101: 'resultado': variable local sin referencia
+C:\Users\usuario\OneDrive\Escritorio\Proyecto_Final\Proyecto\Proyecto_c\Proyecto_c\Puestos.h(79,13): warning C4101: 'fila': variable local sin referencia
+C:\Users\usuario\OneDrive\Escritorio\Proyecto_Final\Proyecto\Proyecto_c\Proyecto_c\Productos.h(92,14): warning C4101: 'resultado': variable local sin referencia
+C:\Users\usuario\OneDrive\Escritorio\Proyecto_Final\Proyecto\Proyecto_c\Proyecto_c\Productos.h(91,13): warning C4101: 'fila': variable local sin referencia
+C:\Users\usuario\OneDrive\Escritorio\Proyecto_Final\Proyecto\Proyecto_c\Proyecto_c\Proveedores.h(85,14): warning C4101: 'resultado': variable local sin referencia
+C:\Users\usuario\OneDrive\Escritorio\Proyecto_Final\Proyecto\Proyecto_c\Proyecto_c\Proveedores.h(84,13): warning C4101: 'fila': variable local sin referencia
+C:\Users\usuario\OneDrive\Escritorio\Proyecto_Final\Proyecto\Proyecto_c\Proyecto_c\Ventas.h(134,14): warning C4101: 'resultado': variable local sin referencia
+C:\Users\usuario\OneDrive\Escritorio\Proyecto_Final\Proyecto\Proyecto_c\Proyecto_c\Ventas.h(133,13): warning C4101: 'fila': variable local sin referencia
+C:\Users\usuario\OneDrive\Escritorio\Proyecto_Final\Proyecto\Proyecto_c\Proyecto_c\Ventas.h(278,25): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\usuario\OneDrive\Escritorio\Proyecto_Final\Proyecto\Proyecto_c\Proyecto_c\Ventas.h(343,33): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\usuario\OneDrive\Escritorio\Proyecto_Final\Proyecto\Proyecto_c\Proyecto_c\Ventas.h(382,21): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\usuario\OneDrive\Escritorio\Proyecto_Final\Proyecto\Proyecto_c\Proyecto_c\Ventas.h(445,21): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\usuario\OneDrive\Escritorio\Proyecto_Final\Proyecto\Proyecto_c\Proyecto_c\Ventas.h(539,21): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\usuario\OneDrive\Escritorio\Proyecto_Final\Proyecto\Proyecto_c\Proyecto_c\Ventas.h(540,20): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\usuario\OneDrive\Escritorio\Proyecto_Final\Proyecto\Proyecto_c\Proyecto_c\Ventas.h(615,21): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\usuario\OneDrive\Escritorio\Proyecto_Final\Proyecto\Proyecto_c\Proyecto_c\Ventas.h(616,20): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+  Generando código
+  1 of 320 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Generación de código finalizada
+  Proyecto_c.vcxproj -> C:\Users\usuario\OneDrive\Escritorio\Proyecto_Final\Proyecto\Proyecto_c\x64\Release\Proyecto_c.exe

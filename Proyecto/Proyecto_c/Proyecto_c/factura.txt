@@ -1,0 +1,14 @@
+ No. Factura: 1017
+ Serie: E
+ Fecha: 2023-06-04
+NIT: C/F
+******************* PRODUCTOS *********************
+ID |  PRODUCTOS  |  MARCA  |  CANTIDAD  |  PRECIO 
+  
+1	 |	 Jugo de naranja 	|	 Tampico 	|	 2 Q. 5.00
+---------------------------------------------------
+3	 |	 Te frio de durazno 	|	 Lipton 	|	 1 Q. 15.00
+---------------------------------------------------
+TOTAL : 25
+****************************************
+Gracias por su preferencia, vuelva pronto uwu
